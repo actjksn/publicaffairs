@@ -188,6 +188,10 @@ ul.links li {
   padding: 0 0.5em;
 }
 
+.node-readmore a /* The 'Read More' link for a specific piece of content. */ {
+  display: none; /* removes the 'Read More' link from being displayed... */
+}
+
 .feed-icon /* The link to the RSS or Atom feed for the current list of content */ {
 }
 
